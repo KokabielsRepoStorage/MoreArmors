@@ -1,0 +1,65 @@
+
+//Items
+item.ruby.name=Ruby
+
+//Swords
+item.ruby_sword.name=Ruby Sword
+item.dirt_sword.name=Dirt Sword
+item.emerald_sword.name=Emerald Sword
+item.netherite_sword.name=Netherite Sword
+
+//Shovels
+item.ruby_shovel.name=Ruby Shovel
+item.dirt_shovel.name=Dirt Shovel
+item.emerald_shovel=Emerald Shovel
+item.netherite_shovel=Netherite Shovel
+
+//Pickaxe
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.dirt_pickaxe.name=Dirt Pickaxe
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.netherite_pickaxe.name=Netherite Pickaxe
+
+//Axe
+item.ruby_axe.name=Ruby Axe
+item.dirt_axe.name=Dirt Axe
+item.emerald_axe=Emerald Axe
+item.netherite_axe=Netherite Axe
+
+//Hoe
+item.ruby_hoe.name=Ruby Hoe
+item.dirt_hoe.name=Dirt Hoe
+item.emerald_hoe.name=Emerald Hoe
+item.netherite_hoe.name=netherite Hoe
+
+//Helmets
+item.ruby_helmet.name=Ruby Helmet
+item.dirt_helmet.name=Dirt Helmet
+item.emerald_helmet.name=Emerald Helmet
+item.netherite_helmet.name=Netherite Helmet
+
+//Chestplate
+item.ruby_chestplate.name=Ruby Chestplate
+item.dirt_chestplate.name=Dirt Chestplate
+item.emerald_chestplate.name=Emerald Chestplate
+item.netherite_chestplate.name=Netherite Chestplate
+
+//Leggings
+item.ruby_leggings.name=Ruby Leggings
+item.dirt_leggings.name=Dirt Leggings
+item.emerald_leggings=Emerald Leggings
+item.netherite_leggings=Netherite Leggings
+
+//Boots
+item.ruby_boots.name=Ruby Boots
+item.dirt_boots.name=Dirt Boots
+item.emerald_boots=Emerald Boots
+item.netherite_boots=Netherite Boots
+
+//Blocks
+tile.ruby_block.name=Ruby Block
+tile.ruby_ore.name=Ruby Ore
+tile.netherite_block.name=Netherite Block
+
+//Food
+item.evil_apple.name=Evil Apple

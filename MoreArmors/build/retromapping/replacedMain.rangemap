@@ -1,0 +1,1426 @@
+Unsupposrted library path: C:\Users\ayvie\OneDrive\Desktop\MoreArmors\build\classes\api
+Unsupposrted library path: C:\Users\ayvie\OneDrive\Desktop\MoreArmors\build\resources\api
+Symbol range map extraction starting
+Processing 24 files
+startProcessing "com/puppy681nuff/morearmors/Main.java" md5: c89d531b37f06bfbbc19d0846b4a5a28
+@|com/puppy681nuff/morearmors/Main.java|8|35|com.puppy681nuff.morearmors|package|com.puppy681nuff.morearmors|(file)
+Class Start: com.puppy681nuff.morearmors.Main
+   @|com/puppy681nuff/morearmors/Main.java|781|784|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/puppy681nuff/morearmors/Main.java|785|790|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/puppy681nuff/morearmors/Main.java|793|802|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/Main.java|803|809|MOD_ID|field|com.puppy681nuff.morearmors.util.Reference|MOD_ID
+   @|com/puppy681nuff/morearmors/Main.java|811|815|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/puppy681nuff/morearmors/Main.java|818|827|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/Main.java|828|832|NAME|field|com.puppy681nuff.morearmors.util.Reference|NAME
+   @|com/puppy681nuff/morearmors/Main.java|834|841|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/puppy681nuff/morearmors/Main.java|844|853|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/Main.java|854|861|VERSION|field|com.puppy681nuff.morearmors.util.Reference|VERSION
+   @|com/puppy681nuff/morearmors/Main.java|877|881|Main|class|com.puppy681nuff.morearmors.Main|false
+   @|com/puppy681nuff/morearmors/Main.java|906|918|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   @|com/puppy681nuff/morearmors/Main.java|906|918|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   @|com/puppy681nuff/morearmors/Main.java|919|929|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors|
+   @|com/puppy681nuff/morearmors/Main.java|936|946|MoreArmors|class|com.puppy681nuff.morearmors.tabs.MoreArmors|false
+   @|com/puppy681nuff/morearmors/Main.java|990|994|Main|class|com.puppy681nuff.morearmors.Main|false
+   @|com/puppy681nuff/morearmors/Main.java|965|973|Instance|class|net.minecraftforge.fml.common.Mod.Instance|false
+   @|com/puppy681nuff/morearmors/Main.java|990|994|Main|class|com.puppy681nuff.morearmors.Main|false
+   @|com/puppy681nuff/morearmors/Main.java|995|1003|instance|field|com.puppy681nuff.morearmors.Main|instance|
+   @|com/puppy681nuff/morearmors/Main.java|1124|1135|CommonProxy|class|com.puppy681nuff.morearmors.proxy.CommonProxy|false
+   @|com/puppy681nuff/morearmors/Main.java|1011|1021|SidedProxy|class|net.minecraftforge.fml.common.SidedProxy|false
+   @|com/puppy681nuff/morearmors/Main.java|1022|1032|clientSide|method|net.minecraftforge.fml.common.SidedProxy|clientSide|()Ljava/lang/String;
+   @|com/puppy681nuff/morearmors/Main.java|1035|1044|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/Main.java|1045|1063|CLIENT_PROXY_CLASS|field|com.puppy681nuff.morearmors.util.Reference|CLIENT_PROXY_CLASS
+   @|com/puppy681nuff/morearmors/Main.java|1065|1075|serverSide|method|net.minecraftforge.fml.common.SidedProxy|serverSide|()Ljava/lang/String;
+   @|com/puppy681nuff/morearmors/Main.java|1078|1087|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/Main.java|1088|1106|COMMON_PROXY_CLASS|field|com.puppy681nuff.morearmors.util.Reference|COMMON_PROXY_CLASS
+   @|com/puppy681nuff/morearmors/Main.java|1124|1135|CommonProxy|class|com.puppy681nuff.morearmors.proxy.CommonProxy|false
+   @|com/puppy681nuff/morearmors/Main.java|1136|1141|proxy|field|com.puppy681nuff.morearmors.Main|proxy|
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1217|1222|event|param|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com/puppy681nuff/morearmors/Main.java|1149|1161|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/puppy681nuff/morearmors/Main.java|1183|1190|PreInit|method|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1191|1216|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|false
+      @|com/puppy681nuff/morearmors/Main.java|1231|1243|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry|false
+      @|com/puppy681nuff/morearmors/Main.java|1244|1266|registerWorldGenerator|method|net.minecraftforge.fml.common.registry.GameRegistry|registerWorldGenerator|(Lnet/minecraftforge/fml/common/IWorldGenerator;I)V
+      @|com/puppy681nuff/morearmors/Main.java|1271|1282|ModWorldGen|class|com.puppy681nuff.morearmors.world.ModWorldGen|false
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1365|1370|event|param|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/puppy681nuff/morearmors/Main.java|1300|1312|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/puppy681nuff/morearmors/Main.java|1334|1341|PreInit|method|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1342|1364|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: PreInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1459|1464|event|param|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|event|0
+      @|com/puppy681nuff/morearmors/Main.java|1390|1402|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/puppy681nuff/morearmors/Main.java|1424|1431|PreInit|method|com.puppy681nuff.morearmors.Main|PreInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|com/puppy681nuff/morearmors/Main.java|1432|1458|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent|false
+   Method End: PreInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : com.puppy681nuff.morearmors.Main
+endProcessing "com/puppy681nuff/morearmors/Main.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/BlockBase.java" md5: 87c785fb1678960a26ab9d3696483864
+@|com/puppy681nuff/morearmors/blocks/BlockBase.java|8|42|com.puppy681nuff.morearmors.blocks|package|com.puppy681nuff.morearmors.blocks|(file)
+Class Start: com.puppy681nuff.morearmors.blocks.BlockBase
+   @|com/puppy681nuff/morearmors/blocks/BlockBase.java|462|471|BlockBase|class|com.puppy681nuff.morearmors.blocks.BlockBase|false
+   @|com/puppy681nuff/morearmors/blocks/BlockBase.java|480|485|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/blocks/BlockBase.java|497|506|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: BlockBase(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|534|538|name|param|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|549|557|material|param|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|517|526|BlockBase|method|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|527|533|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|540|548|Material|class|net.minecraft.block.material.Material|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|569|577|material|param|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|583|601|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|602|606|name|param|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|612|627|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|628|632|name|param|com.puppy681nuff.morearmors.blocks.BlockBase|BlockBase|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|638|652|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|653|665|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|666|681|BUILDING_BLOCKS|field|net.minecraft.creativetab.CreativeTabs|BUILDING_BLOCKS
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|691|700|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|701|707|BLOCKS|field|com.puppy681nuff.morearmors.init.ModBlocks|BLOCKS
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|708|711|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|722|730|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|731|736|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|737|740|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|745|754|ItemBlock|class|net.minecraft.item.ItemBlock|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|761|776|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|setRegistryName|(Lnet/minecraft/util/ResourceLocation;)Ljava/lang/Object;
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|782|797|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+   Method End: BlockBase(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|812|820|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|835|849|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|857|861|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|862|867|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|868|887|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|888|892|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/blocks/BlockBase.java|893|909|getItemFromBlock|method|net.minecraft.item.Item|getItemFromBlock|(Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.blocks.BlockBase
+endProcessing "com/puppy681nuff/morearmors/blocks/BlockBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/DirtOre.java" md5: 4a7b9c70070e1d91e5076f7a71dc2d4c
+@|com/puppy681nuff/morearmors/blocks/DirtOre.java|8|42|com.puppy681nuff.morearmors.blocks|package|com.puppy681nuff.morearmors.blocks|(file)
+Class Start: com.puppy681nuff.morearmors.blocks.DirtOre
+   @|com/puppy681nuff/morearmors/blocks/DirtOre.java|309|316|DirtOre|class|com.puppy681nuff.morearmors.blocks.DirtOre|false
+   @|com/puppy681nuff/morearmors/blocks/DirtOre.java|325|334|BlockBase|class|com.puppy681nuff.morearmors.blocks.BlockBase|false
+   Method Start: DirtOre(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|362|366|name|param|com.puppy681nuff.morearmors.blocks.DirtOre|DirtOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|377|385|material|param|com.puppy681nuff.morearmors.blocks.DirtOre|DirtOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|347|354|DirtOre|method|com.puppy681nuff.morearmors.blocks.DirtOre|DirtOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|355|361|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|368|376|Material|class|net.minecraft.block.material.Material|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|398|402|name|param|com.puppy681nuff.morearmors.blocks.DirtOre|DirtOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|404|412|material|param|com.puppy681nuff.morearmors.blocks.DirtOre|DirtOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|418|430|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|431|440|SoundType|class|net.minecraft.block.SoundType|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|441|447|GROUND|field|net.minecraft.block.SoundType|GROUND
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|453|464|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|475|488|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|498|513|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|532|545|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+   Method End: DirtOre(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|614|619|state|param|com.puppy681nuff.morearmors.blocks.DirtOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|628|632|rand|param|com.puppy681nuff.morearmors.blocks.DirtOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|638|645|fortune|param|com.puppy681nuff.morearmors.blocks.DirtOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|564|572|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|582|586|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|587|601|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|602|613|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|621|627|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|658|666|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/blocks/DirtOre.java|667|677|DIRT_INGOT|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_INGOT
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+Class End  : com.puppy681nuff.morearmors.blocks.DirtOre
+endProcessing "com/puppy681nuff/morearmors/blocks/DirtOre.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/RubyBlock.java" md5: 0af746ee948f4d2d88dbe895d041b799
+@|com/puppy681nuff/morearmors/blocks/RubyBlock.java|8|42|com.puppy681nuff.morearmors.blocks|package|com.puppy681nuff.morearmors.blocks|(file)
+Class Start: com.puppy681nuff.morearmors.blocks.RubyBlock
+   @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|148|157|RubyBlock|class|com.puppy681nuff.morearmors.blocks.RubyBlock|false
+   @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|166|175|BlockBase|class|com.puppy681nuff.morearmors.blocks.BlockBase|false
+   Method Start: RubyBlock(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|206|210|name|param|com.puppy681nuff.morearmors.blocks.RubyBlock|RubyBlock|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|221|229|material|param|com.puppy681nuff.morearmors.blocks.RubyBlock|RubyBlock|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|189|198|RubyBlock|method|com.puppy681nuff.morearmors.blocks.RubyBlock|RubyBlock|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|199|205|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|212|220|Material|class|net.minecraft.block.material.Material|false
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|242|246|name|param|com.puppy681nuff.morearmors.blocks.RubyBlock|RubyBlock|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|248|256|material|param|com.puppy681nuff.morearmors.blocks.RubyBlock|RubyBlock|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|266|278|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|279|288|SoundType|class|net.minecraft.block.SoundType|false
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|289|294|METAL|field|net.minecraft.block.SoundType|METAL
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|300|311|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|322|335|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|344|359|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|com/puppy681nuff/morearmors/blocks/RubyBlock.java|378|391|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+   Method End: RubyBlock(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+Class End  : com.puppy681nuff.morearmors.blocks.RubyBlock
+endProcessing "com/puppy681nuff/morearmors/blocks/RubyBlock.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/RubyOre.java" md5: 2fa36524c53924554da1e02de519d653
+@|com/puppy681nuff/morearmors/blocks/RubyOre.java|8|42|com.puppy681nuff.morearmors.blocks|package|com.puppy681nuff.morearmors.blocks|(file)
+Class Start: com.puppy681nuff.morearmors.blocks.RubyOre
+   @|com/puppy681nuff/morearmors/blocks/RubyOre.java|309|316|RubyOre|class|com.puppy681nuff.morearmors.blocks.RubyOre|false
+   @|com/puppy681nuff/morearmors/blocks/RubyOre.java|325|334|BlockBase|class|com.puppy681nuff.morearmors.blocks.BlockBase|false
+   Method Start: RubyOre(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|362|366|name|param|com.puppy681nuff.morearmors.blocks.RubyOre|RubyOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|377|385|material|param|com.puppy681nuff.morearmors.blocks.RubyOre|RubyOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|347|354|RubyOre|method|com.puppy681nuff.morearmors.blocks.RubyOre|RubyOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|355|361|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|368|376|Material|class|net.minecraft.block.material.Material|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|398|402|name|param|com.puppy681nuff.morearmors.blocks.RubyOre|RubyOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|name|0
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|404|412|material|param|com.puppy681nuff.morearmors.blocks.RubyOre|RubyOre|(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V|material|1
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|418|430|setSoundType|method|net.minecraft.block.Block|setSoundType|(Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|431|440|SoundType|class|net.minecraft.block.SoundType|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|441|446|METAL|field|net.minecraft.block.SoundType|METAL
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|452|463|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|474|487|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|497|512|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|531|544|setLightLevel|method|net.minecraft.block.Block|setLightLevel|(F)Lnet/minecraft/block/Block;
+   Method End: RubyOre(Ljava/lang/String;Lnet/minecraft/block/material/Material;)V
+   Method Start: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|613|618|state|param|com.puppy681nuff.morearmors.blocks.RubyOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|state|0
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|627|631|rand|param|com.puppy681nuff.morearmors.blocks.RubyOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|rand|1
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|637|644|fortune|param|com.puppy681nuff.morearmors.blocks.RubyOre|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;|fortune|2
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|563|571|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|581|585|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|586|600|getItemDropped|method|net.minecraft.block.Block|getItemDropped|(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|601|612|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|620|626|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|657|665|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|666|670|RUBY|field|com.puppy681nuff.morearmors.init.ModItems|RUBY
+   Method End: getItemDropped(Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;
+   Method Start: quantityDropped(Ljava/util/Random;)I
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|727|731|rand|param|com.puppy681nuff.morearmors.blocks.RubyOre|quantityDropped|(Ljava/util/Random;)I|rand|0
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|682|690|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|704|719|quantityDropped|method|net.minecraft.block.Block|quantityDropped|(Ljava/util/Random;)I
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|720|726|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|780|784|rand|param|com.puppy681nuff.morearmors.blocks.RubyOre|quantityDropped|(Ljava/util/Random;)I|rand|0
+      @|com/puppy681nuff/morearmors/blocks/RubyOre.java|785|792|nextInt|method|java.util.Random|nextInt|(I)I
+   Method End: quantityDropped(Ljava/util/Random;)I
+Class End  : com.puppy681nuff.morearmors.blocks.RubyOre
+endProcessing "com/puppy681nuff/morearmors/blocks/RubyOre.java"
+
+startProcessing "com/puppy681nuff/morearmors/init/ModBlocks.java" md5: 0d0eb921ae4a9be96595a8751bc1fbd4
+@|com/puppy681nuff/morearmors/init/ModBlocks.java|8|40|com.puppy681nuff.morearmors.init|package|com.puppy681nuff.morearmors.init|(file)
+Class Start: com.puppy681nuff.morearmors.init.ModBlocks
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|357|366|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|396|401|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|391|395|List|class|java.util.List|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|391|395|List|class|java.util.List|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|396|401|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|403|409|BLOCKS|field|com.puppy681nuff.morearmors.init.ModBlocks|BLOCKS|
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|417|426|ArrayList|class|java.util.ArrayList|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|427|432|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|462|467|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|462|467|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|468|478|RUBY_BLOCK|field|com.puppy681nuff.morearmors.init.ModBlocks|RUBY_BLOCK|
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|485|494|RubyBlock|class|com.puppy681nuff.morearmors.blocks.RubyBlock|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|509|517|Material|class|net.minecraft.block.material.Material|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|518|522|IRON|field|net.minecraft.block.material.Material|IRON
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|547|552|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|547|552|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|553|561|RUBY_ORE|field|com.puppy681nuff.morearmors.init.ModBlocks|RUBY_ORE|
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|568|575|RubyOre|class|com.puppy681nuff.morearmors.blocks.RubyOre|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|588|596|Material|class|net.minecraft.block.material.Material|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|597|601|ROCK|field|net.minecraft.block.material.Material|ROCK
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|626|631|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|626|631|Block|class|net.minecraft.block.Block|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|632|640|DIRT_ORE|field|com.puppy681nuff.morearmors.init.ModBlocks|DIRT_ORE|
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|647|654|DirtOre|class|com.puppy681nuff.morearmors.blocks.DirtOre|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|667|675|Material|class|net.minecraft.block.material.Material|false
+   @|com/puppy681nuff/morearmors/init/ModBlocks.java|676|680|ROCK|field|net.minecraft.block.material.Material|ROCK
+Class End  : com.puppy681nuff.morearmors.init.ModBlocks
+endProcessing "com/puppy681nuff/morearmors/init/ModBlocks.java"
+
+startProcessing "com/puppy681nuff/morearmors/init/ModItems.java" md5: f3b8856abcabe2282a2527c9fb528ed1
+@|com/puppy681nuff/morearmors/init/ModItems.java|8|40|com.puppy681nuff.morearmors.init|package|com.puppy681nuff.morearmors.init|(file)
+Class Start: com.puppy681nuff.morearmors.init.ModItems
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1284|1300|SuppressWarnings|class|java.lang.SuppressWarnings|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1325|1333|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1375|1387|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1375|1387|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1388|1401|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1404|1414|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1415|1430|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1496|1508|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1496|1508|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1509|1522|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1525|1535|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1536|1551|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1615|1627|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1615|1627|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1628|1644|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1647|1657|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1658|1673|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1742|1754|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1742|1754|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1755|1771|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1774|1784|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1785|1800|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1868|1880|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1868|1880|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1881|1894|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1897|1907|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1908|1923|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1987|1999|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|1987|1999|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2000|2013|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2016|2026|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2027|2042|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2106|2118|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2106|2118|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2119|2133|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2136|2146|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2147|2162|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2226|2238|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2226|2238|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2239|2252|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2255|2265|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2266|2281|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2344|2356|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2344|2356|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2357|2370|MATERIAL_DARK|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DARK|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2373|2383|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2384|2399|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2470|2482|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2470|2482|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2483|2497|MATERIAL_LIGHT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_LIGHT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2500|2510|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2511|2526|addToolMaterial|method|net.minecraftforge.common.util.EnumHelper|addToolMaterial|(Ljava/lang/String;IIFFI)Lnet/minecraft/item/Item$ToolMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2622|2635|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2622|2635|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2636|2655|ARMOR_MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_RUBY|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2659|2669|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2670|2686|addArmorMaterial|method|net.minecraftforge.common.util.EnumHelper|addArmorMaterial|(Ljava/lang/String;Ljava/lang/String;I[IILnet/minecraft/util/SoundEvent;F)Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2710|2719|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2720|2726|MOD_ID|field|com.puppy681nuff.morearmors.util.Reference|MOD_ID
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2770|2781|SoundEvents|class|net.minecraft.init.SoundEvents|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2782|2803|ITEM_ARMOR_EQUIP_IRON|field|net.minecraft.init.SoundEvents|ITEM_ARMOR_EQUIP_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2832|2845|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2832|2845|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2846|2865|ARMOR_MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_DIRT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2868|2878|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2879|2895|addArmorMaterial|method|net.minecraftforge.common.util.EnumHelper|addArmorMaterial|(Ljava/lang/String;Ljava/lang/String;I[IILnet/minecraft/util/SoundEvent;F)Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2919|2928|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2929|2935|MOD_ID|field|com.puppy681nuff.morearmors.util.Reference|MOD_ID
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2977|2988|SoundEvents|class|net.minecraft.init.SoundEvents|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|2989|3013|ITEM_ARMOR_EQUIP_GENERIC|field|net.minecraft.init.SoundEvents|ITEM_ARMOR_EQUIP_GENERIC
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3041|3054|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3041|3054|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3055|3077|ARMOR_MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_EMERALD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3080|3090|EnumHelper|class|net.minecraftforge.common.util.EnumHelper|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3091|3107|addArmorMaterial|method|net.minecraftforge.common.util.EnumHelper|addArmorMaterial|(Ljava/lang/String;Ljava/lang/String;I[IILnet/minecraft/util/SoundEvent;F)Lnet/minecraft/item/ItemArmor$ArmorMaterial;
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3134|3143|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3144|3150|MOD_ID|field|com.puppy681nuff.morearmors.util.Reference|MOD_ID
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3195|3206|SoundEvents|class|net.minecraft.init.SoundEvents|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3207|3231|ITEM_ARMOR_EQUIP_DIAMOND|field|net.minecraft.init.SoundEvents|ITEM_ARMOR_EQUIP_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3268|3272|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3263|3267|List|class|java.util.List|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3263|3267|List|class|java.util.List|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3268|3272|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3274|3279|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3286|3295|ArrayList|class|java.util.ArrayList|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3296|3300|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3329|3333|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3329|3333|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3334|3338|RUBY|field|com.puppy681nuff.morearmors.init.ModItems|RUBY|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3345|3353|ItemBase|class|com.puppy681nuff.morearmors.items.ItemBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3385|3389|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3385|3389|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3390|3400|DIRT_STICK|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_STICK|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3407|3415|ItemBase|class|com.puppy681nuff.morearmors.items.ItemBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3453|3457|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3453|3457|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3458|3468|DIRT_INGOT|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_INGOT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3475|3483|ItemBase|class|com.puppy681nuff.morearmors.items.ItemBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3535|3544|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3535|3544|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3545|3555|RUBY_SWORD|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_SWORD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3562|3571|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3586|3599|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3624|3633|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3624|3633|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3634|3644|DIRT_SWORD|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_SWORD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3651|3660|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3675|3688|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3713|3722|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3713|3722|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3723|3736|EMERALD_SWORD|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_SWORD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3743|3752|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3770|3786|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3811|3820|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3811|3820|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3821|3836|DIAMOND_TRIDENT|field|com.puppy681nuff.morearmors.init.ModItems|DIAMOND_TRIDENT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3843|3852|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3872|3888|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3913|3922|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3913|3922|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3923|3935|GOLD_TRIDENT|field|com.puppy681nuff.morearmors.init.ModItems|GOLD_TRIDENT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3942|3951|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|3968|3981|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4006|4015|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4006|4015|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4016|4028|IRON_TRIDENT|field|com.puppy681nuff.morearmors.init.ModItems|IRON_TRIDENT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4035|4044|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4061|4074|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4099|4108|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4099|4108|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4109|4122|STONE_TRIDENT|field|com.puppy681nuff.morearmors.init.ModItems|STONE_TRIDENT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4129|4138|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4156|4170|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4195|4204|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4195|4204|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4205|4217|WOOD_TRIDENT|field|com.puppy681nuff.morearmors.init.ModItems|WOOD_TRIDENT|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4224|4233|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4250|4263|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4288|4297|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4288|4297|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4298|4308|WOOD_SPEAR|field|com.puppy681nuff.morearmors.init.ModItems|WOOD_SPEAR|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4315|4324|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4339|4352|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4377|4386|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4377|4386|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4387|4398|STONE_SPEAR|field|com.puppy681nuff.morearmors.init.ModItems|STONE_SPEAR|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4405|4414|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4430|4444|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4469|4478|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4469|4478|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4479|4489|IRON_SPEAR|field|com.puppy681nuff.morearmors.init.ModItems|IRON_SPEAR|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4496|4505|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4520|4533|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4558|4567|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4558|4567|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4568|4578|GOLD_SPEAR|field|com.puppy681nuff.morearmors.init.ModItems|GOLD_SPEAR|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4585|4594|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4609|4622|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4647|4656|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4647|4656|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4657|4670|DIAMOND_SPEAR|field|com.puppy681nuff.morearmors.init.ModItems|DIAMOND_SPEAR|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4677|4686|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4704|4720|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4745|4754|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4745|4754|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4755|4769|DIAMOND_SCYTHE|field|com.puppy681nuff.morearmors.init.ModItems|DIAMOND_SCYTHE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4776|4785|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4804|4820|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4845|4854|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4845|4854|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4855|4866|WOOD_SCYTHE|field|com.puppy681nuff.morearmors.init.ModItems|WOOD_SCYTHE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4873|4882|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4898|4911|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4936|4945|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4936|4945|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4946|4958|STONE_SCYTHE|field|com.puppy681nuff.morearmors.init.ModItems|STONE_SCYTHE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4965|4974|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|4991|5005|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5030|5039|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5030|5039|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5040|5051|IRON_SCYTHE|field|com.puppy681nuff.morearmors.init.ModItems|IRON_SCYTHE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5058|5067|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5083|5096|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5121|5130|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5121|5130|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5131|5142|GOLD_SCYTHE|field|com.puppy681nuff.morearmors.init.ModItems|GOLD_SCYTHE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5149|5158|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5174|5187|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5212|5221|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5212|5221|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5222|5236|RAPIER_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|RAPIER_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5243|5252|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5271|5287|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5312|5321|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5312|5321|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5322|5333|RAPIER_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|RAPIER_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5340|5349|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5365|5378|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5403|5412|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5403|5412|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5413|5424|RAPIER_IRON|field|com.puppy681nuff.morearmors.init.ModItems|RAPIER_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5431|5440|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5456|5469|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5494|5503|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5494|5503|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5504|5516|RAPIER_STONE|field|com.puppy681nuff.morearmors.init.ModItems|RAPIER_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5523|5532|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5549|5563|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5588|5597|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5588|5597|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5598|5609|RAPIER_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|RAPIER_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5616|5625|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5641|5654|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5679|5688|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5679|5688|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5689|5706|LONGSWORD_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|LONGSWORD_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5713|5722|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5744|5760|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5785|5794|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5785|5794|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5795|5809|LONGSWORD_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|LONGSWORD_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5816|5825|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5844|5857|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5882|5891|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5882|5891|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5892|5906|LONGSWORD_IRON|field|com.puppy681nuff.morearmors.init.ModItems|LONGSWORD_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5913|5922|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5941|5954|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5979|5988|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5979|5988|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|5989|6004|LONGSWORD_STONE|field|com.puppy681nuff.morearmors.init.ModItems|LONGSWORD_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6011|6020|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6040|6054|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6079|6088|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6079|6088|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6089|6103|LONGSWORD_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|LONGSWORD_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6110|6119|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6138|6151|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6176|6185|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6176|6185|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6186|6197|SCYTHE_DARK|field|com.puppy681nuff.morearmors.init.ModItems|SCYTHE_DARK|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6204|6213|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6230|6243|MATERIAL_DARK|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DARK
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6268|6277|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6268|6277|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6278|6292|KATANA_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|KATANA_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6299|6308|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6327|6343|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6368|6377|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6368|6377|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6378|6389|KATANA_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|KATANA_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6396|6405|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6421|6434|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6459|6468|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6459|6468|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6469|6480|KATANA_IRON|field|com.puppy681nuff.morearmors.init.ModItems|KATANA_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6487|6496|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6512|6525|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6550|6559|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6550|6559|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6560|6572|KATANA_STONE|field|com.puppy681nuff.morearmors.init.ModItems|KATANA_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6579|6588|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6605|6619|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6644|6653|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6644|6653|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6654|6665|KATANA_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|KATANA_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6672|6681|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6697|6710|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6735|6744|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6735|6744|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6745|6759|DAGGER_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|DAGGER_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6766|6775|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6794|6810|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6835|6844|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6835|6844|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6845|6856|DAGGER_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|DAGGER_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6863|6872|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6888|6901|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6926|6935|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6926|6935|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6936|6947|DAGGER_IRON|field|com.puppy681nuff.morearmors.init.ModItems|DAGGER_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6954|6963|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|6979|6992|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7017|7026|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7017|7026|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7027|7039|DAGGER_STONE|field|com.puppy681nuff.morearmors.init.ModItems|DAGGER_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7046|7055|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7072|7086|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7111|7120|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7111|7120|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7121|7132|DAGGER_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|DAGGER_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7139|7148|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7164|7177|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7202|7211|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7202|7211|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7212|7230|ECLIPSE_BLADE_BLUE|field|com.puppy681nuff.morearmors.init.ModItems|ECLIPSE_BLADE_BLUE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7237|7246|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7269|7283|MATERIAL_LIGHT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_LIGHT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7308|7317|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7308|7317|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7318|7335|ECLIPSE_BLADE_TAN|field|com.puppy681nuff.morearmors.init.ModItems|ECLIPSE_BLADE_TAN|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7342|7351|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7373|7387|MATERIAL_LIGHT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_LIGHT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7430|7439|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7430|7439|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7440|7451|RUBY_SHOVEL|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_SHOVEL|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7458|7467|ToolSpade|class|com.puppy681nuff.morearmors.items.tools.ToolSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7483|7496|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7521|7530|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7521|7530|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7531|7542|DIRT_SHOVEL|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_SHOVEL|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7549|7558|ToolSpade|class|com.puppy681nuff.morearmors.items.tools.ToolSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7574|7587|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7612|7621|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7612|7621|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7622|7636|EMERALD_SHOVEL|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_SHOVEL|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7643|7652|ToolSpade|class|com.puppy681nuff.morearmors.items.tools.ToolSpade|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7671|7687|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7727|7738|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7727|7738|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7739|7751|RUBY_PICKAXE|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_PICKAXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7758|7769|ToolPickaxe|class|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7786|7799|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7824|7835|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7824|7835|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7836|7848|DIRT_PICKAXE|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_PICKAXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7855|7866|ToolPickaxe|class|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7883|7896|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7921|7932|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7921|7932|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7933|7948|EMERALD_PICKAXE|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_PICKAXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7955|7966|ToolPickaxe|class|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|7986|8002|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8038|8045|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8038|8045|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8046|8054|RUBY_AXE|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_AXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8061|8068|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8081|8094|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8119|8126|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8119|8126|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8127|8135|DIRT_AXE|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_AXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8142|8149|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8162|8175|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8200|8207|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8200|8207|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8208|8219|EMERALD_AXE|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_AXE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8226|8233|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8249|8265|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8290|8297|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8290|8297|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8298|8316|BATTLE_AXE_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|BATTLE_AXE_DIAMOND|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8323|8330|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8353|8369|MATERIAL_DIAMOND|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIAMOND
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8394|8401|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8394|8401|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8402|8417|BATTLE_AXE_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|BATTLE_AXE_GOLD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8424|8431|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8451|8464|MATERIAL_GOLD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_GOLD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8489|8496|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8489|8496|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8497|8512|BATTLE_AXE_IRON|field|com.puppy681nuff.morearmors.init.ModItems|BATTLE_AXE_IRON|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8519|8526|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8546|8559|MATERIAL_IRON|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_IRON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8584|8591|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8584|8591|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8592|8608|BATTLE_AXE_STONE|field|com.puppy681nuff.morearmors.init.ModItems|BATTLE_AXE_STONE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8615|8622|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8643|8657|MATERIAL_STONE|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_STONE
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8682|8689|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8682|8689|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8690|8705|BATTLE_AXE_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|BATTLE_AXE_WOOD|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8712|8719|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8739|8752|MATERIAL_WOOD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_WOOD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8788|8795|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8788|8795|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8796|8804|RUBY_HOE|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_HOE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8811|8818|ToolHoe|class|com.puppy681nuff.morearmors.items.tools.ToolHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8831|8844|MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8869|8876|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8869|8876|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8877|8885|DIRT_HOE|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_HOE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8892|8899|ToolHoe|class|com.puppy681nuff.morearmors.items.tools.ToolHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8912|8925|MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8950|8957|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8950|8957|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8958|8969|EMERALD_HOE|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_HOE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8976|8983|ToolHoe|class|com.puppy681nuff.morearmors.items.tools.ToolHoe|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|8999|9015|MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9055|9059|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9055|9059|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9060|9071|RUBY_HELMET|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_HELMET|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9078|9087|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9103|9122|ARMOR_MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9127|9146|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9147|9151|HEAD|field|net.minecraft.inventory.EntityEquipmentSlot|HEAD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9176|9180|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9176|9180|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9181|9192|DIRT_HELMET|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_HELMET|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9199|9208|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9224|9243|ARMOR_MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9249|9268|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9269|9273|HEAD|field|net.minecraft.inventory.EntityEquipmentSlot|HEAD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9298|9302|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9298|9302|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9303|9317|EMERALD_HELMET|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_HELMET|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9324|9333|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9352|9374|ARMOR_MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9379|9398|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9399|9403|HEAD|field|net.minecraft.inventory.EntityEquipmentSlot|HEAD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9447|9451|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9447|9451|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9452|9467|RUBY_CHESTPLATE|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_CHESTPLATE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9474|9483|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9503|9522|ARMOR_MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9527|9546|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9547|9552|CHEST|field|net.minecraft.inventory.EntityEquipmentSlot|CHEST
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9577|9581|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9577|9581|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9582|9597|DIRT_CHESTPLATE|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_CHESTPLATE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9604|9613|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9633|9652|ARMOR_MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9657|9676|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9677|9682|CHEST|field|net.minecraft.inventory.EntityEquipmentSlot|CHEST
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9707|9711|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9707|9711|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9712|9730|EMERALD_CHESTPLATE|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_CHESTPLATE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9737|9746|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9769|9791|ARMOR_MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9796|9815|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9816|9821|CHEST|field|net.minecraft.inventory.EntityEquipmentSlot|CHEST
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9862|9866|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9862|9866|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9867|9880|RUBY_LEGGINGS|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_LEGGINGS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9887|9896|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9914|9933|ARMOR_MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9938|9957|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9958|9962|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9987|9991|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9987|9991|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|9992|10005|DIRT_LEGGINGS|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_LEGGINGS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10012|10021|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10039|10058|ARMOR_MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10063|10082|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10083|10087|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10112|10116|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10112|10116|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10117|10133|EMERALD_LEGGINGS|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_LEGGINGS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10140|10149|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10170|10192|ARMOR_MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10197|10216|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10217|10221|LEGS|field|net.minecraft.inventory.EntityEquipmentSlot|LEGS
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10259|10263|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10259|10263|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10264|10274|RUBY_BOOTS|field|com.puppy681nuff.morearmors.init.ModItems|RUBY_BOOTS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10281|10290|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10305|10324|ARMOR_MATERIAL_RUBY|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_RUBY
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10329|10348|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10349|10353|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10378|10382|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10378|10382|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10383|10393|DIRT_BOOTS|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_BOOTS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10400|10409|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10424|10443|ARMOR_MATERIAL_DIRT|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_DIRT
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10448|10467|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10468|10472|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10497|10501|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10497|10501|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10502|10515|EMERALD_BOOTS|field|com.puppy681nuff.morearmors.init.ModItems|EMERALD_BOOTS|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10522|10531|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10549|10571|ARMOR_MATERIAL_EMERALD|field|com.puppy681nuff.morearmors.init.ModItems|ARMOR_MATERIAL_EMERALD
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10576|10595|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10596|10600|FEET|field|net.minecraft.inventory.EntityEquipmentSlot|FEET
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10726|10730|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10726|10730|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10731|10741|EVIL_APPLE|field|com.puppy681nuff.morearmors.init.ModItems|EVIL_APPLE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10748|10762|FoodEffectBase|class|com.puppy681nuff.morearmors.items.food.FoodEffectBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10797|10809|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10811|10821|MobEffects|class|net.minecraft.init.MobEffects|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10822|10828|POISON|field|net.minecraft.init.MobEffects|POISON
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10880|10884|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10880|10884|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10885|10897|GOLDEN_STEAK|field|com.puppy681nuff.morearmors.init.ModItems|GOLDEN_STEAK|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10904|10918|FoodEffectBase|class|com.puppy681nuff.morearmors.items.food.FoodEffectBase|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10956|10968|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10970|10980|MobEffects|class|net.minecraft.init.MobEffects|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|10981|10991|ABSORPTION|field|net.minecraft.init.MobEffects|ABSORPTION
+   @|com/puppy681nuff/morearmors/init/ModItems.java|11044|11048|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|11044|11048|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/init/ModItems.java|11049|11059|DIRT_APPLE|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_APPLE|
+   @|com/puppy681nuff/morearmors/init/ModItems.java|11066|11075|DirtApple|class|com.puppy681nuff.morearmors.items.food.DirtApple|false
+Class End  : com.puppy681nuff.morearmors.init.ModItems
+endProcessing "com/puppy681nuff/morearmors/init/ModItems.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/ItemBase.java" md5: de9ee1de5f87e81bc70644667dafc25e
+@|com/puppy681nuff/morearmors/items/ItemBase.java|8|41|com.puppy681nuff.morearmors.items|package|com.puppy681nuff.morearmors.items|(file)
+Class Start: com.puppy681nuff.morearmors.items.ItemBase
+   @|com/puppy681nuff/morearmors/items/ItemBase.java|241|249|ItemBase|class|com.puppy681nuff.morearmors.items.ItemBase|false
+   @|com/puppy681nuff/morearmors/items/ItemBase.java|258|262|Item|class|net.minecraft.item.Item|false
+   @|com/puppy681nuff/morearmors/items/ItemBase.java|274|283|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ItemBase(Ljava/lang/String;)V
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|313|317|name|param|com.puppy681nuff.morearmors.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|297|305|ItemBase|method|com.puppy681nuff.morearmors.items.ItemBase|ItemBase|(Ljava/lang/String;)V
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|306|312|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|326|344|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|345|349|name|param|com.puppy681nuff.morearmors.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|355|370|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|371|375|name|param|com.puppy681nuff.morearmors.items.ItemBase|ItemBase|(Ljava/lang/String;)V|name|0
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|381|395|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|396|400|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|401|411|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|421|429|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|430|435|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|436|439|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ItemBase(Ljava/lang/String;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|457|465|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|480|494|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|503|507|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|508|513|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/ItemBase.java|514|533|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.ItemBase
+endProcessing "com/puppy681nuff/morearmors/items/ItemBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/armor/ArmorBase.java" md5: 7460c1310accc07d5cc2bc386d594788
+@|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|8|47|com.puppy681nuff.morearmors.items.armor|package|com.puppy681nuff.morearmors.items.armor|(file)
+Class Start: com.puppy681nuff.morearmors.items.armor.ArmorBase
+   @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|443|452|ArmorBase|class|com.puppy681nuff.morearmors.items.armor.ArmorBase|false
+   @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|461|470|ItemArmor|class|net.minecraft.item.ItemArmor|false
+   @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|482|491|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ArmorBase(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|521|525|name|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|541|551|materialIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|materialIn|1
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|557|570|renderIndexIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|renderIndexIn|2
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|592|607|equipmentSlotIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|3
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|504|513|ArmorBase|method|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|514|520|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|527|540|ArmorMaterial|class|net.minecraft.item.ItemArmor.ArmorMaterial|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|572|591|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|620|630|materialIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|materialIn|1
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|632|645|renderIndexIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|renderIndexIn|2
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|647|662|equipmentSlotIn|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|equipmentSlotIn|3
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|668|686|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|687|691|name|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|697|712|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|713|717|name|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|ArmorBase|(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V|name|0
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|723|737|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|738|742|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|743|753|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|759|774|setMaxStackSize|method|net.minecraft.item.Item|setMaxStackSize|(I)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|782|790|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|791|796|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|797|800|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ArmorBase(Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|822|830|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|845|859|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|868|872|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|873|878|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|879|898|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+   Method Start: getArmorModel(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|992|1004|entityLiving|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|entityLiving|0
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1016|1025|itemStack|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|itemStack|1
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1047|1056|armorSlot|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|armorSlot|2
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1069|1077|_default|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|_default|3
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|932|940|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|950|960|ModelBiped|class|net.minecraft.client.model.ModelBiped|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|961|974|getArmorModel|method|net.minecraft.item.Item|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|975|991|EntityLivingBase|class|net.minecraft.entity.EntityLivingBase|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1006|1015|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1027|1046|EntityEquipmentSlot|class|net.minecraft.inventory.EntityEquipmentSlot|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1058|1068|ModelBiped|class|net.minecraft.client.model.ModelBiped|false
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1099|1112|getArmorModel|method|net.minecraft.item.Item|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1113|1125|entityLiving|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|entityLiving|0
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1127|1136|itemStack|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|itemStack|1
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1138|1147|armorSlot|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|armorSlot|2
+      @|com/puppy681nuff/morearmors/items/armor/ArmorBase.java|1149|1157|_default|param|com.puppy681nuff.morearmors.items.armor.ArmorBase|getArmorModel|(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;|_default|3
+   Method End: getArmorModel(Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/item/ItemStack;Lnet/minecraft/inventory/EntityEquipmentSlot;Lnet/minecraft/client/model/ModelBiped;)Lnet/minecraft/client/model/ModelBiped;
+Class End  : com.puppy681nuff.morearmors.items.armor.ArmorBase
+endProcessing "com/puppy681nuff/morearmors/items/armor/ArmorBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/DirtApple.java" md5: 5c68b380e3d6ecfd459600e328fdb682
+@|com/puppy681nuff/morearmors/items/food/DirtApple.java|8|46|com.puppy681nuff.morearmors.items.food|package|com.puppy681nuff.morearmors.items.food|(file)
+Class Start: com.puppy681nuff.morearmors.items.food.DirtApple
+   @|com/puppy681nuff/morearmors/items/food/DirtApple.java|315|324|DirtApple|class|com.puppy681nuff.morearmors.items.food.DirtApple|false
+   @|com/puppy681nuff/morearmors/items/food/DirtApple.java|333|341|FoodBase|class|com.puppy681nuff.morearmors.items.food.FoodBase|false
+   Method Start: DirtApple(Ljava/lang/String;IFZ)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|369|373|name|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|379|385|amount|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|393|403|saturation|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|413|425|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|352|361|DirtApple|method|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|362|368|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|438|442|name|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|444|450|amount|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|452|462|saturation|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|464|476|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.DirtApple|DirtApple|(Ljava/lang/String;IFZ)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|482|496|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|497|501|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|502|512|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|518|533|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+   Method End: DirtApple(Ljava/lang/String;IFZ)V
+   Method Start: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|594|599|stack|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|607|614|worldIn|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|629|635|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|546|554|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|572|583|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|584|593|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|601|606|World|class|net.minecraft.world.World|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|616|628|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|653|660|worldIn|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|661|669|isRemote|field|net.minecraft.world.World|isRemote
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|711|717|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|718|733|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|738|750|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|751|761|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|762|772|ABSORPTION|field|net.minecraft.init.MobEffects|ABSORPTION
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|827|833|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|834|849|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|854|866|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|867|877|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|878|890|NIGHT_VISION|field|net.minecraft.init.MobEffects|NIGHT_VISION
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|945|951|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|952|967|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|972|984|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|985|995|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|996|1008|REGENERATION|field|net.minecraft.init.MobEffects|REGENERATION
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1063|1069|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1070|1085|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1090|1102|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1103|1113|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1114|1129|FIRE_RESISTANCE|field|net.minecraft.init.MobEffects|FIRE_RESISTANCE
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1184|1190|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1191|1206|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1211|1223|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1224|1234|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1235|1240|HASTE|field|net.minecraft.init.MobEffects|HASTE
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1295|1301|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1302|1317|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1322|1334|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1335|1345|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1346|1356|JUMP_BOOST|field|net.minecraft.init.MobEffects|JUMP_BOOST
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1409|1415|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1416|1431|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1436|1448|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1449|1459|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1460|1466|NAUSEA|field|net.minecraft.init.MobEffects|NAUSEA
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1524|1530|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1531|1546|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1551|1563|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1564|1574|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1575|1580|SPEED|field|net.minecraft.init.MobEffects|SPEED
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1633|1639|player|param|com.puppy681nuff.morearmors.items.food.DirtApple|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1640|1655|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1660|1672|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1673|1683|MobEffects|class|net.minecraft.init.MobEffects|false
+      @|com/puppy681nuff/morearmors/items/food/DirtApple.java|1684|1694|SATURATION|field|net.minecraft.init.MobEffects|SATURATION
+   Method End: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+Class End  : com.puppy681nuff.morearmors.items.food.DirtApple
+endProcessing "com/puppy681nuff/morearmors/items/food/DirtApple.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/FoodBase.java" md5: 5175fb83a98c0db7f1415f901b776043
+@|com/puppy681nuff/morearmors/items/food/FoodBase.java|8|46|com.puppy681nuff.morearmors.items.food|package|com.puppy681nuff.morearmors.items.food|(file)
+Class Start: com.puppy681nuff.morearmors.items.food.FoodBase
+   @|com/puppy681nuff/morearmors/items/food/FoodBase.java|250|258|FoodBase|class|com.puppy681nuff.morearmors.items.food.FoodBase|false
+   @|com/puppy681nuff/morearmors/items/food/FoodBase.java|267|275|ItemFood|class|net.minecraft.item.ItemFood|false
+   @|com/puppy681nuff/morearmors/items/food/FoodBase.java|287|296|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: FoodBase(Ljava/lang/String;IFZ)V
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|323|327|name|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|333|339|amount|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|347|357|saturation|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|367|379|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|307|315|FoodBase|method|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|316|322|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|391|397|amount|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|399|409|saturation|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|411|423|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|429|447|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|448|452|name|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|458|473|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|474|478|name|param|com.puppy681nuff.morearmors.items.food.FoodBase|FoodBase|(Ljava/lang/String;IFZ)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|484|498|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|499|503|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|504|514|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|524|532|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|533|538|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|539|542|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: FoodBase(Ljava/lang/String;IFZ)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|559|567|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|582|596|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|604|608|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|609|614|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/food/FoodBase.java|615|634|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.food.FoodBase
+endProcessing "com/puppy681nuff/morearmors/items/food/FoodBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/FoodEffectBase.java" md5: 785e15a5ff1d401f6d7e8a0d03cdd41a
+@|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|8|46|com.puppy681nuff.morearmors.items.food|package|com.puppy681nuff.morearmors.items.food|(file)
+Class Start: com.puppy681nuff.morearmors.items.food.FoodEffectBase
+   @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|376|390|FoodEffectBase|class|com.puppy681nuff.morearmors.items.food.FoodEffectBase|false
+   @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|399|407|FoodBase|class|com.puppy681nuff.morearmors.items.food.FoodBase|false
+   @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|413|425|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+   @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|413|425|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+   @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|426|432|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect|
+   Method Start: FoodEffectBase(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|468|472|name|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|478|484|amount|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|492|502|saturation|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|512|524|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|539|545|effect|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|effect|4
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|446|460|FoodEffectBase|method|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|461|467|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|526|538|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|558|562|name|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|name|0
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|564|570|amount|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|amount|1
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|572|582|saturation|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|saturation|2
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|584|596|isAnimalFood|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|isAnimalFood|3
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|602|617|setAlwaysEdible|method|net.minecraft.item.ItemFood|setAlwaysEdible|()Lnet/minecraft/item/ItemFood;
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|624|638|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|639|643|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|644|654|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|669|675|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|678|684|effect|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|FoodEffectBase|(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V|effect|4
+   Method End: FoodEffectBase(Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V
+   Method Start: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|744|749|stack|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|stack|0
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|757|764|worldIn|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|779|785|player|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|696|704|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|722|733|onFoodEaten|method|net.minecraft.item.ItemFood|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|734|743|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|751|756|World|class|net.minecraft.world.World|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|766|778|EntityPlayer|class|net.minecraft.entity.player.EntityPlayer|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|795|802|worldIn|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|worldIn|1
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|803|811|isRemote|field|net.minecraft.world.World|isRemote
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|819|825|player|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|onFoodEaten|(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V|player|2
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|826|841|addPotionEffect|method|net.minecraft.entity.EntityLivingBase|addPotionEffect|(Lnet/minecraft/potion/PotionEffect;)V
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|846|858|PotionEffect|class|net.minecraft.potion.PotionEffect|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|859|865|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|866|875|getPotion|method|net.minecraft.potion.PotionEffect|getPotion|()Lnet/minecraft/potion/Potion;
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|879|885|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|886|897|getDuration|method|net.minecraft.potion.PotionEffect|getDuration|()I
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|901|907|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|908|920|getAmplifier|method|net.minecraft.potion.PotionEffect|getAmplifier|()I
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|924|930|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|931|943|getIsAmbient|method|net.minecraft.potion.PotionEffect|getIsAmbient|()Z
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|947|953|effect|field|com.puppy681nuff.morearmors.items.food.FoodEffectBase|effect
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|954|971|doesShowParticles|method|net.minecraft.potion.PotionEffect|doesShowParticles|()Z
+   Method End: onFoodEaten(Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V
+   Method Start: hasEffect(Lnet/minecraft/item/ItemStack;)Z
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1059|1064|stack|param|com.puppy681nuff.morearmors.items.food.FoodEffectBase|hasEffect|(Lnet/minecraft/item/ItemStack;)Z|stack|0
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1000|1008|SideOnly|class|net.minecraftforge.fml.relauncher.SideOnly|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1009|1013|Side|class|net.minecraftforge.fml.relauncher.Side|false
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1014|1020|CLIENT|field|net.minecraftforge.fml.relauncher.Side|CLIENT
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1039|1048|hasEffect|method|net.minecraft.item.Item|hasEffect|(Lnet/minecraft/item/ItemStack;)Z
+      @|com/puppy681nuff/morearmors/items/food/FoodEffectBase.java|1049|1058|ItemStack|class|net.minecraft.item.ItemStack|false
+   Method End: hasEffect(Lnet/minecraft/item/ItemStack;)Z
+Class End  : com.puppy681nuff.morearmors.items.food.FoodEffectBase
+endProcessing "com/puppy681nuff/morearmors/items/food/FoodEffectBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolAxe.java" md5: e6af276e65edb29c735558a178a14cbe
+@|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|8|47|com.puppy681nuff.morearmors.items.tools|package|com.puppy681nuff.morearmors.items.tools|(file)
+Class Start: com.puppy681nuff.morearmors.items.tools.ToolAxe
+   @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|250|257|ToolAxe|class|com.puppy681nuff.morearmors.items.tools.ToolAxe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|266|273|ItemAxe|class|net.minecraft.item.ItemAxe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|285|294|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ToolAxe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|321|325|name|param|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|340|348|material|param|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|306|313|ToolAxe|method|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|314|320|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|327|339|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|363|371|material|param|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|390|408|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|409|413|name|param|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|419|434|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|435|439|name|param|com.puppy681nuff.morearmors.items.tools.ToolAxe|ToolAxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|445|459|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|460|464|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|465|475|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|486|494|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|495|500|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|501|504|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ToolAxe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|523|531|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|546|560|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|569|573|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|574|579|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/tools/ToolAxe.java|580|599|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.tools.ToolAxe
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolAxe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolHoe.java" md5: 3f42642d7c44bfb37544950c5fdaec72
+@|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|8|47|com.puppy681nuff.morearmors.items.tools|package|com.puppy681nuff.morearmors.items.tools|(file)
+Class Start: com.puppy681nuff.morearmors.items.tools.ToolHoe
+   @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|250|257|ToolHoe|class|com.puppy681nuff.morearmors.items.tools.ToolHoe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|266|273|ItemHoe|class|net.minecraft.item.ItemHoe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|285|294|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ToolHoe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|320|324|name|param|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|339|347|material|param|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|305|312|ToolHoe|method|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|313|319|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|326|338|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|362|370|material|param|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|376|394|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|395|399|name|param|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|405|420|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|421|425|name|param|com.puppy681nuff.morearmors.items.tools.ToolHoe|ToolHoe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|431|445|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|446|450|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|451|461|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|472|480|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|481|486|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|487|490|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ToolHoe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|509|517|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|532|546|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|555|559|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|560|565|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/tools/ToolHoe.java|566|585|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.tools.ToolHoe
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolHoe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java" md5: 4e587b04908cd1ebf2f069546b52aac7
+@|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|8|47|com.puppy681nuff.morearmors.items.tools|package|com.puppy681nuff.morearmors.items.tools|(file)
+Class Start: com.puppy681nuff.morearmors.items.tools.ToolPickaxe
+   @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|254|265|ToolPickaxe|class|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|274|285|ItemPickaxe|class|net.minecraft.item.ItemPickaxe|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|297|306|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ToolPickaxe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|336|340|name|param|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|355|363|material|param|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|317|328|ToolPickaxe|method|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|329|335|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|342|354|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|378|386|material|param|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|392|410|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|411|415|name|param|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|421|436|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|437|441|name|param|com.puppy681nuff.morearmors.items.tools.ToolPickaxe|ToolPickaxe|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|447|461|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|462|466|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|467|477|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|488|496|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|497|502|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|503|506|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ToolPickaxe(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|525|533|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|548|562|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|571|575|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|576|581|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java|582|601|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.tools.ToolPickaxe
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolSpade.java" md5: 89306702ade3d09b4bddc08bd7f3f9ff
+@|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|8|47|com.puppy681nuff.morearmors.items.tools|package|com.puppy681nuff.morearmors.items.tools|(file)
+Class Start: com.puppy681nuff.morearmors.items.tools.ToolSpade
+   @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|252|261|ToolSpade|class|com.puppy681nuff.morearmors.items.tools.ToolSpade|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|270|279|ItemSpade|class|net.minecraft.item.ItemSpade|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|291|300|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ToolSpade(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|328|332|name|param|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|347|355|material|param|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|311|320|ToolSpade|method|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|321|327|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|334|346|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|370|378|material|param|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|384|402|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|403|407|name|param|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|413|428|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|429|433|name|param|com.puppy681nuff.morearmors.items.tools.ToolSpade|ToolSpade|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|439|453|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|454|458|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|459|469|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|480|488|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|489|494|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|495|498|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ToolSpade(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|517|525|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|540|554|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|563|567|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|568|573|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/tools/ToolSpade.java|574|593|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.tools.ToolSpade
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolSpade.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolSword.java" md5: 7f08165b93f0d494cdb4035433f726a4
+@|com/puppy681nuff/morearmors/items/tools/ToolSword.java|8|47|com.puppy681nuff.morearmors.items.tools|package|com.puppy681nuff.morearmors.items.tools|(file)
+Class Start: com.puppy681nuff.morearmors.items.tools.ToolSword
+   @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|252|261|ToolSword|class|com.puppy681nuff.morearmors.items.tools.ToolSword|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|270|279|ItemSword|class|net.minecraft.item.ItemSword|false
+   @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|291|300|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: ToolSword(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|330|334|name|param|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|349|357|material|param|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|313|322|ToolSword|method|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|323|329|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|336|348|ToolMaterial|class|net.minecraft.item.Item.ToolMaterial|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|372|380|material|param|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|material|1
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|386|404|setUnlocalizedName|method|net.minecraft.item.Item|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|405|409|name|param|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|415|430|setRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/registries/IForgeRegistryEntry;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|431|435|name|param|com.puppy681nuff.morearmors.items.tools.ToolSword|ToolSword|(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V|name|0
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|441|455|setCreativeTab|method|net.minecraft.item.Item|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|456|460|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|461|471|morearmors|field|com.puppy681nuff.morearmors.Main|morearmors
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|482|490|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|491|496|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|497|500|add|method|java.util.Collection|add|(Ljava/lang/Object;)Z
+   Method End: ToolSword(Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|519|527|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|542|556|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|565|569|Main|class|com.puppy681nuff.morearmors.Main|false
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|570|575|proxy|field|com.puppy681nuff.morearmors.Main|proxy
+      @|com/puppy681nuff/morearmors/items/tools/ToolSword.java|576|595|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.items.tools.ToolSword
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolSword.java"
+
+startProcessing "com/puppy681nuff/morearmors/proxy/ClientProxy.java" md5: 0b330c0690792f18dd68ea0e04469530
+@|com/puppy681nuff/morearmors/proxy/ClientProxy.java|8|41|com.puppy681nuff.morearmors.proxy|package|com.puppy681nuff.morearmors.proxy|(file)
+Class Start: com.puppy681nuff.morearmors.proxy.ClientProxy
+   @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|220|231|ClientProxy|class|com.puppy681nuff.morearmors.proxy.ClientProxy|false
+   @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|240|251|CommonProxy|class|com.puppy681nuff.morearmors.proxy.CommonProxy|false
+   Method Start: registerItemRederer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|295|299|item|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|304|308|meta|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|317|319|id|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|270|289|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|290|294|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|310|316|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|326|337|ModelLoader|class|net.minecraftforge.client.model.ModelLoader|false
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|338|368|setCustomModelResourceLocation|method|net.minecraftforge.client.model.ModelLoader|setCustomModelResourceLocation|(Lnet/minecraft/item/Item;ILnet/minecraft/client/renderer/block/model/ModelResourceLocation;)V
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|369|373|item|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|375|379|meta|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|385|406|ModelResourceLocation|class|net.minecraft.client.renderer.block.model.ModelResourceLocation|false
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|407|411|item|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|412|427|getRegistryName|method|net.minecraftforge.registries.IForgeRegistryEntry|getRegistryName|()Lnet/minecraft/util/ResourceLocation;
+      @|com/puppy681nuff/morearmors/proxy/ClientProxy.java|431|433|id|param|com.puppy681nuff.morearmors.proxy.ClientProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+   Method End: registerItemRederer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.puppy681nuff.morearmors.proxy.ClientProxy
+endProcessing "com/puppy681nuff/morearmors/proxy/ClientProxy.java"
+
+startProcessing "com/puppy681nuff/morearmors/proxy/CommonProxy.java" md5: 3b36c53b6a6625751cccfe4ce0971dd3
+@|com/puppy681nuff/morearmors/proxy/CommonProxy.java|8|41|com.puppy681nuff.morearmors.proxy|package|com.puppy681nuff.morearmors.proxy|(file)
+Class Start: com.puppy681nuff.morearmors.proxy.CommonProxy
+   @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|96|107|CommonProxy|class|com.puppy681nuff.morearmors.proxy.CommonProxy|false
+   Method Start: registerItemRederer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|149|153|item|param|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|item|0
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|158|162|meta|param|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|meta|1
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|171|173|id|param|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V|id|2
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|124|143|registerItemRederer|method|com.puppy681nuff.morearmors.proxy.CommonProxy|registerItemRederer|(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|144|148|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/proxy/CommonProxy.java|164|170|String|class|java.lang.String|false
+   Method End: registerItemRederer(Lnet/minecraft/item/Item;ILjava/lang/String;)V
+Class End  : com.puppy681nuff.morearmors.proxy.CommonProxy
+endProcessing "com/puppy681nuff/morearmors/proxy/CommonProxy.java"
+
+startProcessing "com/puppy681nuff/morearmors/tabs/MoreArmors.java" md5: f6757ecee39e35318e8f241eea8abe2c
+@|com/puppy681nuff/morearmors/tabs/MoreArmors.java|8|40|com.puppy681nuff.morearmors.tabs|package|com.puppy681nuff.morearmors.tabs|(file)
+Class Start: com.puppy681nuff.morearmors.tabs.MoreArmors
+   @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|199|209|MoreArmors|class|com.puppy681nuff.morearmors.tabs.MoreArmors|false
+   @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|218|230|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs|false
+   Method Start: MoreArmors(Ljava/lang/String;)V
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|259|264|label|param|com.puppy681nuff.morearmors.tabs.MoreArmors|MoreArmors|(Ljava/lang/String;)V|label|0
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|241|251|MoreArmors|method|com.puppy681nuff.morearmors.tabs.MoreArmors|MoreArmors|(Ljava/lang/String;)V
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|252|258|String|class|java.lang.String|false
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|300|322|setBackgroundImageName|method|net.minecraft.creativetab.CreativeTabs|setBackgroundImageName|(Ljava/lang/String;)Lnet/minecraft/creativetab/CreativeTabs;
+   Method End: MoreArmors(Ljava/lang/String;)V
+   Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|355|363|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|373|382|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|383|397|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|416|425|ItemStack|class|net.minecraft.item.ItemStack|false
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|426|434|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/tabs/MoreArmors.java|435|445|DIRT_STICK|field|com.puppy681nuff.morearmors.init.ModItems|DIRT_STICK
+   Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+Class End  : com.puppy681nuff.morearmors.tabs.MoreArmors
+endProcessing "com/puppy681nuff/morearmors/tabs/MoreArmors.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/IHasModel.java" md5: 35b7d7b6b1685d3c04610b77b2b01edf
+@|com/puppy681nuff/morearmors/util/IHasModel.java|8|40|com.puppy681nuff.morearmors.util|package|com.puppy681nuff.morearmors.util|(file)
+Class Start: com.puppy681nuff.morearmors.util.IHasModel
+   @|com/puppy681nuff/morearmors/util/IHasModel.java|62|71|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+   Method Start: registerModels()V
+      @|com/puppy681nuff/morearmors/util/IHasModel.java|91|105|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+   Method End: registerModels()V
+Class End  : com.puppy681nuff.morearmors.util.IHasModel
+endProcessing "com/puppy681nuff/morearmors/util/IHasModel.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/Reference.java" md5: d3c685a401a0abda64de750a031fc3a9
+@|com/puppy681nuff/morearmors/util/Reference.java|8|40|com.puppy681nuff.morearmors.util|package|com.puppy681nuff.morearmors.util|(file)
+Class Start: com.puppy681nuff.morearmors.util.Reference
+   @|com/puppy681nuff/morearmors/util/Reference.java|58|67|Reference|class|com.puppy681nuff.morearmors.util.Reference|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|92|98|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|92|98|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|99|105|MOD_ID|field|com.puppy681nuff.morearmors.util.Reference|MOD_ID|
+   @|com/puppy681nuff/morearmors/util/Reference.java|144|150|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|144|150|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|151|155|NAME|field|com.puppy681nuff.morearmors.util.Reference|NAME|
+   @|com/puppy681nuff/morearmors/util/Reference.java|195|201|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|195|201|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|202|209|VERSION|field|com.puppy681nuff.morearmors.util.Reference|VERSION|
+   @|com/puppy681nuff/morearmors/util/Reference.java|242|248|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|242|248|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|249|266|ACCEPTED_VERSIONS|field|com.puppy681nuff.morearmors.util.Reference|ACCEPTED_VERSIONS|
+   @|com/puppy681nuff/morearmors/util/Reference.java|303|309|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|303|309|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|311|329|CLIENT_PROXY_CLASS|field|com.puppy681nuff.morearmors.util.Reference|CLIENT_PROXY_CLASS|
+   @|com/puppy681nuff/morearmors/util/Reference.java|403|409|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|403|409|String|class|java.lang.String|false
+   @|com/puppy681nuff/morearmors/util/Reference.java|411|429|COMMON_PROXY_CLASS|field|com.puppy681nuff.morearmors.util.Reference|COMMON_PROXY_CLASS|
+Class End  : com.puppy681nuff.morearmors.util.Reference
+endProcessing "com/puppy681nuff/morearmors/util/Reference.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java" md5: 98eebe1349cfb033dcd0e1eedb47d0e8
+@|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|8|49|com.puppy681nuff.morearmors.util.handlers|package|com.puppy681nuff.morearmors.util.handlers|(file)
+Class Start: com.puppy681nuff.morearmors.util.handlers.RegistryHandler
+   @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|519|537|EventBusSubscriber|class|net.minecraftforge.fml.common.Mod.EventBusSubscriber|false
+   @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|552|567|RegistryHandler|class|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|false
+   Method Start: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|653|658|event|param|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|573|587|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|609|623|onItemRegister|method|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|624|646|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|647|651|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|667|672|event|param|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onItemRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|673|684|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|687|698|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|699|707|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|708|713|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|714|721|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|726|730|Item|class|net.minecraft.item.Item|false
+   Method End: onItemRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|829|834|event|param|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|747|761|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|783|798|onBlockRegister|method|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|799|821|RegistryEvent.Register|class|net.minecraftforge.event.RegistryEvent.Register|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|822|827|Block|class|net.minecraft.block.Block|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|843|848|event|param|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onBlockRegister|(Lnet/minecraftforge/event/RegistryEvent$Register;)V|event|0
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|849|860|getRegistry|method|net.minecraftforge.event.RegistryEvent.Register|getRegistry|()Lnet/minecraftforge/registries/IForgeRegistry;
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|863|874|registerAll|method|net.minecraftforge.registries.IForgeRegistry|registerAll|([Lnet/minecraftforge/registries/IForgeRegistryEntry;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|875|884|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|885|891|BLOCKS|field|com.puppy681nuff.morearmors.init.ModBlocks|BLOCKS
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|892|899|toArray|method|java.util.Collection|toArray|([Ljava/lang/Object;)[Ljava/lang/Object;
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|904|909|Block|class|net.minecraft.block.Block|false
+   Method End: onBlockRegister(Lnet/minecraftforge/event/RegistryEvent$Register;)V
+   Method Start: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1000|1005|event|param|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V|event|0
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|929|943|SubscribeEvent|class|net.minecraftforge.fml.common.eventhandler.SubscribeEvent|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|965|980|onModelRegister|method|com.puppy681nuff.morearmors.util.handlers.RegistryHandler|onModelRegister|(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|981|999|ModelRegistryEvent|class|net.minecraftforge.client.event.ModelRegistryEvent|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1018|1022|Item|class|net.minecraft.item.Item|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1029|1037|ModItems|class|com.puppy681nuff.morearmors.init.ModItems|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1038|1043|ITEMS|field|com.puppy681nuff.morearmors.init.ModItems|ITEMS
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1073|1082|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1097|1106|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1113|1127|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1153|1158|Block|class|net.minecraft.block.Block|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1166|1175|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1176|1182|BLOCKS|field|com.puppy681nuff.morearmors.init.ModBlocks|BLOCKS
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1213|1222|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1237|1246|IHasModel|class|com.puppy681nuff.morearmors.util.IHasModel|false
+      @|com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java|1254|1268|registerModels|method|com.puppy681nuff.morearmors.util.IHasModel|registerModels|()V
+   Method End: onModelRegister(Lnet/minecraftforge/client/event/ModelRegistryEvent;)V
+Class End  : com.puppy681nuff.morearmors.util.handlers.RegistryHandler
+endProcessing "com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java"
+
+startProcessing "com/puppy681nuff/morearmors/world/ModWorldGen.java" md5: a716b49d9c6628f6495126534cfca122
+@|com/puppy681nuff/morearmors/world/ModWorldGen.java|8|41|com.puppy681nuff.morearmors.world|package|com.puppy681nuff.morearmors.world|(file)
+Class Start: com.puppy681nuff.morearmors.world.ModWorldGen
+   @|com/puppy681nuff/morearmors/world/ModWorldGen.java|478|489|ModWorldGen|class|com.puppy681nuff.morearmors.world.ModWorldGen|false
+   @|com/puppy681nuff/morearmors/world/ModWorldGen.java|501|516|IWorldGenerator|class|net.minecraftforge.fml.common.IWorldGenerator|false
+   Method Start: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|561|567|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|573|579|chunkX|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|585|591|chunkZ|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|599|604|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|622|637|chunckGenerator|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckGenerator|4
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|654|668|chunckProvider|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckProvider|5
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|522|530|Override|class|java.lang.Override|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|545|553|generate|method|net.minecraftforge.fml.common.IWorldGenerator|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|554|560|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|593|598|World|class|net.minecraft.world.World|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|606|621|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|639|653|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|679|684|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|685|693|provider|field|net.minecraft.world.World|provider
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|694|706|getDimension|method|net.minecraft.world.WorldProvider|getDimension|()I
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|721|738|generateOverworld|method|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|739|745|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|747|753|chunkX|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|755|761|chunkZ|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|763|768|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|770|785|chunckGenerator|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckGenerator|4
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|787|801|chunckProvider|param|com.puppy681nuff.morearmors.world.ModWorldGen|generate|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckProvider|5
+   Method End: generate(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+   Method Start: generateOverworld(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|856|862|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|868|874|chunkX|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|880|886|chunkZ|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|894|899|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|917|932|chunckGenerator|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckGenerator|4
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|949|963|chunckProvider|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunckProvider|5
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|831|848|generateOverworld|method|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|849|855|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|888|893|World|class|net.minecraft.world.World|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|901|916|IChunkGenerator|class|net.minecraft.world.gen.IChunkGenerator|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|934|948|IChunkProvider|class|net.minecraft.world.chunk.IChunkProvider|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|970|981|generateOre|method|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|982|991|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|992|1000|RUBY_ORE|field|com.puppy681nuff.morearmors.init.ModBlocks|RUBY_ORE
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1001|1016|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1020|1025|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1027|1033|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1035|1041|chunkX|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1048|1054|chunkZ|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1069|1075|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1076|1083|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1101|1112|generateOre|method|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1113|1122|ModBlocks|class|com.puppy681nuff.morearmors.init.ModBlocks|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1123|1131|DIRT_ORE|field|com.puppy681nuff.morearmors.init.ModBlocks|DIRT_ORE
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1132|1147|getDefaultState|method|net.minecraft.block.Block|getDefaultState|()Lnet/minecraft/block/state/IBlockState;
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1151|1156|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|world|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1158|1164|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1166|1172|chunkX|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkX|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1179|1185|chunkZ|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|chunkZ|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1200|1206|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOverworld|(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V|random|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1207|1214|nextInt|method|java.util.Random|nextInt|(I)I
+   Method End: generateOverworld(Ljava/util/Random;IILnet/minecraft/world/World;Lnet/minecraft/world/gen/IChunkGenerator;Lnet/minecraft/world/chunk/IChunkProvider;)V
+   Method Start: generateOre(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1274|1277|ore|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|ore|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1285|1290|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|world|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1299|1305|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|random|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1311|1312|x|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|x|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1318|1319|z|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|z|4
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1325|1329|minY|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|minY|5
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1335|1339|maxY|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|maxY|6
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1345|1349|size|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|size|7
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1355|1362|chances|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|chances|8
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1250|1261|generateOre|method|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1262|1273|IBlockState|class|net.minecraft.block.state.IBlockState|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1279|1284|World|class|net.minecraft.world.World|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1292|1298|Random|class|java.util.Random|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1382|1386|maxY|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|maxY|6
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1389|1393|minY|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|minY|5
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1422|1429|chances|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|chances|8
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1441|1449|BlockPos|class|net.minecraft.util.math.BlockPos|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1460|1468|BlockPos|class|net.minecraft.util.math.BlockPos|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1469|1470|x|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|x|3
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1473|1479|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|random|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1480|1487|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1493|1497|minY|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|minY|5
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1500|1506|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|random|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1507|1514|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1524|1525|z|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|z|4
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1528|1534|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|random|2
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1535|1542|nextInt|method|java.util.Random|nextInt|(I)I
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1558|1573|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1590|1605|WorldGenMinable|class|net.minecraft.world.gen.feature.WorldGenMinable|false
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1606|1609|ore|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|ore|0
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1611|1615|size|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|size|7
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1632|1640|generate|method|net.minecraft.world.gen.feature.WorldGenerator|generate|(Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1641|1646|world|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|world|1
+      @|com/puppy681nuff/morearmors/world/ModWorldGen.java|1648|1654|random|param|com.puppy681nuff.morearmors.world.ModWorldGen|generateOre|(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V|random|2
+   Method End: generateOre(Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Ljava/util/Random;IIIIII)V
+Class End  : com.puppy681nuff.morearmors.world.ModWorldGen
+endProcessing "com/puppy681nuff/morearmors/world/ModWorldGen.java"
+

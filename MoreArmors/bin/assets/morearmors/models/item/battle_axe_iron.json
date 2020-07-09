@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+  "textures": {
+    "layer0":"morearmors:items/battle_axe_iron"
+  }
+}

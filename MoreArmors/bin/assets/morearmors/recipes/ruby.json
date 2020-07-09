@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "morearmors:ruby_block"
+        }
+    ],
+    "result": {
+        "item": "morearmors:ruby",
+        "count": 9
+    },
+    "group": "ruby"
+}

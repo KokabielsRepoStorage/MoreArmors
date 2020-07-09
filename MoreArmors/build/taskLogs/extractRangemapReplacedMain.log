@@ -1,0 +1,76 @@
+Unsupposrted library path: C:\Users\ayvie\OneDrive\Desktop\MoreArmors\build\classes\api
+Unsupposrted library path: C:\Users\ayvie\OneDrive\Desktop\MoreArmors\build\resources\api
+Symbol range map extraction starting
+Processing 24 files
+startProcessing "com/puppy681nuff/morearmors/Main.java" md5: c89d531b37f06bfbbc19d0846b4a5a28
+endProcessing "com/puppy681nuff/morearmors/Main.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/BlockBase.java" md5: 87c785fb1678960a26ab9d3696483864
+endProcessing "com/puppy681nuff/morearmors/blocks/BlockBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/DirtOre.java" md5: 4a7b9c70070e1d91e5076f7a71dc2d4c
+endProcessing "com/puppy681nuff/morearmors/blocks/DirtOre.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/RubyBlock.java" md5: 0af746ee948f4d2d88dbe895d041b799
+endProcessing "com/puppy681nuff/morearmors/blocks/RubyBlock.java"
+
+startProcessing "com/puppy681nuff/morearmors/blocks/RubyOre.java" md5: 2fa36524c53924554da1e02de519d653
+endProcessing "com/puppy681nuff/morearmors/blocks/RubyOre.java"
+
+startProcessing "com/puppy681nuff/morearmors/init/ModBlocks.java" md5: 0d0eb921ae4a9be96595a8751bc1fbd4
+endProcessing "com/puppy681nuff/morearmors/init/ModBlocks.java"
+
+startProcessing "com/puppy681nuff/morearmors/init/ModItems.java" md5: f3b8856abcabe2282a2527c9fb528ed1
+endProcessing "com/puppy681nuff/morearmors/init/ModItems.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/ItemBase.java" md5: de9ee1de5f87e81bc70644667dafc25e
+endProcessing "com/puppy681nuff/morearmors/items/ItemBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/armor/ArmorBase.java" md5: 7460c1310accc07d5cc2bc386d594788
+endProcessing "com/puppy681nuff/morearmors/items/armor/ArmorBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/DirtApple.java" md5: 5c68b380e3d6ecfd459600e328fdb682
+endProcessing "com/puppy681nuff/morearmors/items/food/DirtApple.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/FoodBase.java" md5: 5175fb83a98c0db7f1415f901b776043
+endProcessing "com/puppy681nuff/morearmors/items/food/FoodBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/food/FoodEffectBase.java" md5: 785e15a5ff1d401f6d7e8a0d03cdd41a
+endProcessing "com/puppy681nuff/morearmors/items/food/FoodEffectBase.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolAxe.java" md5: e6af276e65edb29c735558a178a14cbe
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolAxe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolHoe.java" md5: 3f42642d7c44bfb37544950c5fdaec72
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolHoe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java" md5: 4e587b04908cd1ebf2f069546b52aac7
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolSpade.java" md5: 89306702ade3d09b4bddc08bd7f3f9ff
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolSpade.java"
+
+startProcessing "com/puppy681nuff/morearmors/items/tools/ToolSword.java" md5: 7f08165b93f0d494cdb4035433f726a4
+endProcessing "com/puppy681nuff/morearmors/items/tools/ToolSword.java"
+
+startProcessing "com/puppy681nuff/morearmors/proxy/ClientProxy.java" md5: 0b330c0690792f18dd68ea0e04469530
+endProcessing "com/puppy681nuff/morearmors/proxy/ClientProxy.java"
+
+startProcessing "com/puppy681nuff/morearmors/proxy/CommonProxy.java" md5: 3b36c53b6a6625751cccfe4ce0971dd3
+endProcessing "com/puppy681nuff/morearmors/proxy/CommonProxy.java"
+
+startProcessing "com/puppy681nuff/morearmors/tabs/MoreArmors.java" md5: f6757ecee39e35318e8f241eea8abe2c
+endProcessing "com/puppy681nuff/morearmors/tabs/MoreArmors.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/IHasModel.java" md5: 35b7d7b6b1685d3c04610b77b2b01edf
+endProcessing "com/puppy681nuff/morearmors/util/IHasModel.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/Reference.java" md5: d3c685a401a0abda64de750a031fc3a9
+endProcessing "com/puppy681nuff/morearmors/util/Reference.java"
+
+startProcessing "com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java" md5: 98eebe1349cfb033dcd0e1eedb47d0e8
+endProcessing "com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java"
+
+startProcessing "com/puppy681nuff/morearmors/world/ModWorldGen.java" md5: a716b49d9c6628f6495126534cfca122
+endProcessing "com/puppy681nuff/morearmors/world/ModWorldGen.java"
+

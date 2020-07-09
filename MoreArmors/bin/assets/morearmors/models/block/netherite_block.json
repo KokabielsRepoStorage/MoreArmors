@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "morearmors:blocks/netherite_block"
+   }
+}

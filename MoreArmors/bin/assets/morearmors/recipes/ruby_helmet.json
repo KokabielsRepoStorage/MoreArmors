@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ruby", "data":0
+        }
+    },
+    "result": {
+        "item": "morearmors:ruby_helmet",
+        "count": 1
+    }
+}

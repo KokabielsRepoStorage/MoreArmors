@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morearmors",
+  "name": "More Armors",
+  "description": "Added Dirt Ore, Dirt ingot, and dirt apple(OP)",
+  "version": "0.2.0",
+  "mcversion": "1.12.2",
+  "url": "https://www.youtube.com/channel/UCF2rI8Xnkfsj267xUt9p_3w",
+  "updateUrl": "",
+  "authorList": ["puppy681nuff"],
+  "credits": "Nothing is here",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,343 @@
+Processing 24 files
+Start Processing: com/puppy681nuff/morearmors/Main.java
+Import: com.puppy681nuff.morearmors.proxy.CommonProxy
+Import: com.puppy681nuff.morearmors.tabs.MoreArmors
+Import: com.puppy681nuff.morearmors.util.Reference
+Import: com.puppy681nuff.morearmors.world.ModWorldGen
+Adding 9 imports
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraftforge.fml.common.Mod
+        net.minecraftforge.fml.common.Mod.EventHandler
+        net.minecraftforge.fml.common.Mod.Instance
+        net.minecraftforge.fml.common.SidedProxy
+        net.minecraftforge.fml.common.event.FMLInitializationEvent
+        net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+        net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+        net.minecraftforge.fml.common.registry.GameRegistry
+End  Processing: com/puppy681nuff/morearmors/Main.java
+
+Start Processing: com/puppy681nuff/morearmors/blocks/BlockBase.java
+FOUND CONSTR method com/puppy681nuff/morearmors/blocks/BlockBase/BlockBase (Ljava/lang/String;Lnet/minecraft/block/material/Material;)V com/puppy681nuff/morearmors/blocks/BlockBase
+Rename method net/minecraft/block/Block/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/block/Block;[583,601]::setUnlocalizedName->func_149663_c
+Rename method net/minecraft/block/Block/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;[633,647]::setCreativeTab->func_149647_a
+Rename field net/minecraft/creativetab/CreativeTabs/BUILDING_BLOCKS[660,675]::BUILDING_BLOCKS->field_78030_b
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[885,901]::getItemFromBlock->func_150898_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModBlocks
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 5 imports
+        net.minecraft.block.Block
+        net.minecraft.block.material.Material
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraft.item.Item
+        net.minecraft.item.ItemBlock
+End  Processing: com/puppy681nuff/morearmors/blocks/BlockBase.java
+
+Start Processing: com/puppy681nuff/morearmors/blocks/DirtOre.java
+FOUND CONSTR method com/puppy681nuff/morearmors/blocks/DirtOre/DirtOre (Ljava/lang/String;Lnet/minecraft/block/material/Material;)V com/puppy681nuff/morearmors/blocks/DirtOre
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[418,430]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/GROUND[442,448]::GROUND->field_185849_b
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[462,473]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[486,499]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[543,556]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/getItemDropped (Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;[598,612]::getItemDropped->func_180660_a
+Import: java.util.Random
+Adding 5 imports
+        com.puppy681nuff.morearmors.init.ModItems
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.block.state.IBlockState
+        net.minecraft.item.Item
+End  Processing: com/puppy681nuff/morearmors/blocks/DirtOre.java
+
+Start Processing: com/puppy681nuff/morearmors/blocks/RubyBlock.java
+FOUND CONSTR method com/puppy681nuff/morearmors/blocks/RubyBlock/RubyBlock (Ljava/lang/String;Lnet/minecraft/block/material/Material;)V com/puppy681nuff/morearmors/blocks/RubyBlock
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[266,278]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[290,295]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[310,321]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[334,347]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[390,403]::setLightLevel->func_149715_a
+Import: net.minecraft.block.SoundType
+Import: net.minecraft.block.material.Material
+End  Processing: com/puppy681nuff/morearmors/blocks/RubyBlock.java
+
+Start Processing: com/puppy681nuff/morearmors/blocks/RubyOre.java
+FOUND CONSTR method com/puppy681nuff/morearmors/blocks/RubyOre/RubyOre (Ljava/lang/String;Lnet/minecraft/block/material/Material;)V com/puppy681nuff/morearmors/blocks/RubyOre
+Rename method net/minecraft/block/Block/setSoundType (Lnet/minecraft/block/SoundType;)Lnet/minecraft/block/Block;[418,430]::setSoundType->func_149672_a
+Rename field net/minecraft/block/SoundType/METAL[442,447]::METAL->field_185852_e
+Rename method net/minecraft/block/Block/setHardness (F)Lnet/minecraft/block/Block;[462,473]::setHardness->func_149711_c
+Rename method net/minecraft/block/Block/setResistance (F)Lnet/minecraft/block/Block;[486,499]::setResistance->func_149752_b
+Rename method net/minecraft/block/Block/setLightLevel (F)Lnet/minecraft/block/Block;[543,556]::setLightLevel->func_149715_a
+Rename method net/minecraft/block/Block/getItemDropped (Lnet/minecraft/block/state/IBlockState;Ljava/util/Random;I)Lnet/minecraft/item/Item;[598,612]::getItemDropped->func_180660_a
+Rename method net/minecraft/block/Block/quantityDropped (Ljava/util/Random;)I[715,730]::quantityDropped->func_149745_a
+Import: java.util.Random
+Adding 5 imports
+        com.puppy681nuff.morearmors.init.ModItems
+        net.minecraft.block.SoundType
+        net.minecraft.block.material.Material
+        net.minecraft.block.state.IBlockState
+        net.minecraft.item.Item
+End  Processing: com/puppy681nuff/morearmors/blocks/RubyOre.java
+
+Start Processing: com/puppy681nuff/morearmors/init/ModBlocks.java
+Rename field net/minecraft/block/material/Material/IRON[518,522]::IRON->field_151573_f
+Rename field net/minecraft/block/material/Material/ROCK[607,611]::ROCK->field_151576_e
+Rename field net/minecraft/block/material/Material/ROCK[696,700]::ROCK->field_151576_e
+Import: java.util.ArrayList
+Import: java.util.List
+Adding 5 imports
+        com.puppy681nuff.morearmors.blocks.DirtOre
+        com.puppy681nuff.morearmors.blocks.RubyBlock
+        com.puppy681nuff.morearmors.blocks.RubyOre
+        net.minecraft.block.Block
+        net.minecraft.block.material.Material
+End  Processing: com/puppy681nuff/morearmors/init/ModBlocks.java
+
+Start Processing: com/puppy681nuff/morearmors/init/ModItems.java
+Rename field net/minecraft/init/SoundEvents/ITEM_ARMOR_EQUIP_IRON[2782,2803]::ITEM_ARMOR_EQUIP_IRON->field_187725_r
+Rename field net/minecraft/init/SoundEvents/ITEM_ARMOR_EQUIP_GENERIC[2982,3006]::ITEM_ARMOR_EQUIP_GENERIC->field_187719_p
+Rename field net/minecraft/init/SoundEvents/ITEM_ARMOR_EQUIP_DIAMOND[3190,3214]::ITEM_ARMOR_EQUIP_DIAMOND->field_187716_o
+Rename field net/minecraft/init/MobEffects/POISON[10795,10801]::POISON->field_76436_u
+Rename field net/minecraft/init/MobEffects/ABSORPTION[10961,10971]::ABSORPTION->field_76444_x
+Import: java.util.ArrayList
+Import: java.util.List
+Adding 23 imports
+        com.puppy681nuff.morearmors.items.ItemBase
+        com.puppy681nuff.morearmors.items.armor.ArmorBase
+        com.puppy681nuff.morearmors.items.food.DirtApple
+        com.puppy681nuff.morearmors.items.food.FoodEffectBase
+        com.puppy681nuff.morearmors.items.tools.ToolAxe
+        com.puppy681nuff.morearmors.items.tools.ToolHoe
+        com.puppy681nuff.morearmors.items.tools.ToolPickaxe
+        com.puppy681nuff.morearmors.items.tools.ToolSpade
+        com.puppy681nuff.morearmors.items.tools.ToolSword
+        com.puppy681nuff.morearmors.util.Reference
+        net.minecraft.init.MobEffects
+        net.minecraft.init.SoundEvents
+        net.minecraft.inventory.EntityEquipmentSlot
+        net.minecraft.item.Item
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemArmor.ArmorMaterial
+        net.minecraft.item.ItemAxe
+        net.minecraft.item.ItemHoe
+        net.minecraft.item.ItemPickaxe
+        net.minecraft.item.ItemSpade
+        net.minecraft.item.ItemSword
+        net.minecraft.potion.PotionEffect
+        net.minecraftforge.common.util.EnumHelper
+End  Processing: com/puppy681nuff/morearmors/init/ModItems.java
+
+Start Processing: com/puppy681nuff/morearmors/items/ItemBase.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/ItemBase/ItemBase (Ljava/lang/String;)V com/puppy681nuff/morearmors/items/ItemBase
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[326,344]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[375,389]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 1 imports
+        net.minecraft.item.Item
+End  Processing: com/puppy681nuff/morearmors/items/ItemBase.java
+
+Start Processing: com/puppy681nuff/morearmors/items/armor/ArmorBase.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/armor/ArmorBase/ArmorBase (Ljava/lang/String;Lnet/minecraft/item/ItemArmor$ArmorMaterial;ILnet/minecraft/inventory/EntityEquipmentSlot;)V com/puppy681nuff/morearmors/items/armor/ArmorBase
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[668,686]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[717,731]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/Item/setMaxStackSize (I)Lnet/minecraft/item/Item;[751,766]::setMaxStackSize->func_77625_d
+Import: com.puppy681nuff.morearmors.Main
+Adding 8 imports
+        com.puppy681nuff.morearmors.init.ModItems
+        com.puppy681nuff.morearmors.util.IHasModel
+        net.minecraft.client.model.ModelBiped
+        net.minecraft.entity.EntityLivingBase
+        net.minecraft.inventory.EntityEquipmentSlot
+        net.minecraft.item.ItemArmor
+        net.minecraft.item.ItemArmor.ArmorMaterial
+        net.minecraft.item.ItemStack
+End  Processing: com/puppy681nuff/morearmors/items/armor/ArmorBase.java
+
+Start Processing: com/puppy681nuff/morearmors/items/food/DirtApple.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/food/DirtApple/DirtApple (Ljava/lang/String;IFZ)V com/puppy681nuff/morearmors/items/food/DirtApple
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[482,496]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/ItemFood/setAlwaysEdible ()Lnet/minecraft/item/ItemFood;[516,531]::setAlwaysEdible->func_77848_i
+Rename method net/minecraft/item/ItemFood/onFoodEaten (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V[567,578]::onFoodEaten->func_77849_c
+Rename field net/minecraft/world/World/isRemote[657,665]::isRemote->field_72995_K
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[719,734]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/ABSORPTION[760,770]::ABSORPTION->field_76444_x
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[835,850]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/NIGHT_VISION[876,888]::NIGHT_VISION->field_76439_r
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[951,966]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/REGENERATION[992,1004]::REGENERATION->field_76428_l
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1067,1082]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/FIRE_RESISTANCE[1108,1123]::FIRE_RESISTANCE->field_76426_n
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1183,1198]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/HASTE[1224,1229]::HASTE->field_76422_e
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1299,1314]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/JUMP_BOOST[1340,1350]::JUMP_BOOST->field_76430_j
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1413,1428]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/NAUSEA[1454,1460]::NAUSEA->field_76431_k
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1532,1547]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SPEED[1573,1578]::SPEED->field_76424_c
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[1646,1661]::addPotionEffect->func_70690_d
+Rename field net/minecraft/init/MobEffects/SATURATION[1687,1697]::SATURATION->field_76443_y
+Import: com.puppy681nuff.morearmors.Main
+Adding 5 imports
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.init.MobEffects
+        net.minecraft.item.ItemStack
+        net.minecraft.potion.PotionEffect
+        net.minecraft.world.World
+End  Processing: com/puppy681nuff/morearmors/items/food/DirtApple.java
+
+Start Processing: com/puppy681nuff/morearmors/items/food/FoodBase.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/food/FoodBase/FoodBase (Ljava/lang/String;IFZ)V com/puppy681nuff/morearmors/items/food/FoodBase
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[429,447]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[478,492]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 1 imports
+        net.minecraft.item.ItemFood
+End  Processing: com/puppy681nuff/morearmors/items/food/FoodBase.java
+
+Start Processing: com/puppy681nuff/morearmors/items/food/FoodEffectBase.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/food/FoodEffectBase/FoodEffectBase (Ljava/lang/String;IFZLnet/minecraft/potion/PotionEffect;)V com/puppy681nuff/morearmors/items/food/FoodEffectBase
+Rename method net/minecraft/item/ItemFood/setAlwaysEdible ()Lnet/minecraft/item/ItemFood;[602,617]::setAlwaysEdible->func_77848_i
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[621,635]::setCreativeTab->func_77637_a
+Rename method net/minecraft/item/ItemFood/onFoodEaten (Lnet/minecraft/item/ItemStack;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/EntityPlayer;)V[717,728]::onFoodEaten->func_77849_c
+Rename field net/minecraft/world/World/isRemote[799,807]::isRemote->field_72995_K
+Rename method net/minecraft/entity/EntityLivingBase/addPotionEffect (Lnet/minecraft/potion/PotionEffect;)V[827,842]::addPotionEffect->func_70690_d
+Rename method net/minecraft/potion/PotionEffect/getPotion ()Lnet/minecraft/potion/Potion;[864,873]::getPotion->func_188419_a
+Rename method net/minecraft/potion/PotionEffect/getDuration ()I[888,899]::getDuration->func_76459_b
+Rename method net/minecraft/potion/PotionEffect/getAmplifier ()I[911,923]::getAmplifier->func_76458_c
+Rename method net/minecraft/potion/PotionEffect/getIsAmbient ()Z[934,946]::getIsAmbient->func_82720_e
+Rename method net/minecraft/potion/PotionEffect/doesShowParticles ()Z[957,974]::doesShowParticles->func_188418_e
+Rename method net/minecraft/item/Item/hasEffect (Lnet/minecraft/item/ItemStack;)Z[1038,1047]::hasEffect->func_77636_d
+Import: com.puppy681nuff.morearmors.Main
+Adding 6 imports
+        net.minecraft.entity.player.EntityPlayer
+        net.minecraft.item.ItemStack
+        net.minecraft.potion.PotionEffect
+        net.minecraft.world.World
+        net.minecraftforge.fml.relauncher.Side
+        net.minecraftforge.fml.relauncher.SideOnly
+End  Processing: com/puppy681nuff/morearmors/items/food/FoodEffectBase.java
+
+Start Processing: com/puppy681nuff/morearmors/items/tools/ToolAxe.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/tools/ToolAxe/ToolAxe (Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V com/puppy681nuff/morearmors/items/tools/ToolAxe
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[390,408]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[439,453]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 2 imports
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemAxe
+End  Processing: com/puppy681nuff/morearmors/items/tools/ToolAxe.java
+
+Start Processing: com/puppy681nuff/morearmors/items/tools/ToolHoe.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/tools/ToolHoe/ToolHoe (Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V com/puppy681nuff/morearmors/items/tools/ToolHoe
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[376,394]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[425,439]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 2 imports
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemHoe
+End  Processing: com/puppy681nuff/morearmors/items/tools/ToolHoe.java
+
+Start Processing: com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/tools/ToolPickaxe/ToolPickaxe (Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V com/puppy681nuff/morearmors/items/tools/ToolPickaxe
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[392,410]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[441,455]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 2 imports
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemPickaxe
+End  Processing: com/puppy681nuff/morearmors/items/tools/ToolPickaxe.java
+
+Start Processing: com/puppy681nuff/morearmors/items/tools/ToolSpade.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/tools/ToolSpade/ToolSpade (Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V com/puppy681nuff/morearmors/items/tools/ToolSpade
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[384,402]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[433,447]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 2 imports
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemSpade
+End  Processing: com/puppy681nuff/morearmors/items/tools/ToolSpade.java
+
+Start Processing: com/puppy681nuff/morearmors/items/tools/ToolSword.java
+FOUND CONSTR method com/puppy681nuff/morearmors/items/tools/ToolSword/ToolSword (Ljava/lang/String;Lnet/minecraft/item/Item$ToolMaterial;)V com/puppy681nuff/morearmors/items/tools/ToolSword
+Rename method net/minecraft/item/Item/setUnlocalizedName (Ljava/lang/String;)Lnet/minecraft/item/Item;[386,404]::setUnlocalizedName->func_77655_b
+Rename method net/minecraft/item/Item/setCreativeTab (Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/item/Item;[435,449]::setCreativeTab->func_77637_a
+Import: com.puppy681nuff.morearmors.Main
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 2 imports
+        net.minecraft.item.Item.ToolMaterial
+        net.minecraft.item.ItemSword
+End  Processing: com/puppy681nuff/morearmors/items/tools/ToolSword.java
+
+Start Processing: com/puppy681nuff/morearmors/proxy/ClientProxy.java
+Import: net.minecraft.client.renderer.block.model.ModelResourceLocation
+Import: net.minecraft.item.Item
+Import: net.minecraftforge.client.model.ModelLoader
+End  Processing: com/puppy681nuff/morearmors/proxy/ClientProxy.java
+
+Start Processing: com/puppy681nuff/morearmors/proxy/CommonProxy.java
+Import: net.minecraft.item.Item
+End  Processing: com/puppy681nuff/morearmors/proxy/CommonProxy.java
+
+Start Processing: com/puppy681nuff/morearmors/tabs/MoreArmors.java
+FOUND CONSTR method com/puppy681nuff/morearmors/tabs/MoreArmors/MoreArmors (Ljava/lang/String;)V com/puppy681nuff/morearmors/tabs/MoreArmors
+Rename method net/minecraft/creativetab/CreativeTabs/setBackgroundImageName (Ljava/lang/String;)Lnet/minecraft/creativetab/CreativeTabs;[300,322]::setBackgroundImageName->func_78025_a
+Rename method net/minecraft/creativetab/CreativeTabs/getTabIconItem ()Lnet/minecraft/item/ItemStack;[373,387]::getTabIconItem->func_78016_d
+Import: com.puppy681nuff.morearmors.init.ModItems
+Adding 2 imports
+        net.minecraft.creativetab.CreativeTabs
+        net.minecraft.item.ItemStack
+End  Processing: com/puppy681nuff/morearmors/tabs/MoreArmors.java
+
+Start Processing: com/puppy681nuff/morearmors/util/IHasModel.java
+End  Processing: com/puppy681nuff/morearmors/util/IHasModel.java
+
+Start Processing: com/puppy681nuff/morearmors/util/Reference.java
+End  Processing: com/puppy681nuff/morearmors/util/Reference.java
+
+Start Processing: com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java
+New Key: class net/minecraftforge/event/RegistryEvent
+New Key: class net/minecraftforge/event/RegistryEvent
+Import: com.puppy681nuff.morearmors.init.ModBlocks
+Import: com.puppy681nuff.morearmors.init.ModItems
+Import: com.puppy681nuff.morearmors.util.IHasModel
+Adding 6 imports
+        net.minecraft.block.Block
+        net.minecraft.item.Item
+        net.minecraftforge.client.event.ModelRegistryEvent
+        net.minecraftforge.event.RegistryEvent
+        net.minecraftforge.fml.common.Mod.EventBusSubscriber
+        net.minecraftforge.fml.common.eventhandler.SubscribeEvent
+End  Processing: com/puppy681nuff/morearmors/util/handlers/RegistryHandler.java
+
+Start Processing: com/puppy681nuff/morearmors/world/ModWorldGen.java
+Rename field net/minecraft/world/World/provider[685,693]::provider->field_73011_w
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[1006,1021]::getDefaultState->func_176223_P
+Rename method net/minecraft/block/Block/getDefaultState ()Lnet/minecraft/block/state/IBlockState;[1135,1150]::getDefaultState->func_176223_P
+Rename method net/minecraft/world/gen/feature/WorldGenerator/generate (Lnet/minecraft/world/World;Ljava/util/Random;Lnet/minecraft/util/math/BlockPos;)Z[1633,1641]::generate->func_180709_b
+Import: java.util.Random
+Adding 8 imports
+        com.puppy681nuff.morearmors.init.ModBlocks
+        net.minecraft.block.state.IBlockState
+        net.minecraft.util.math.BlockPos
+        net.minecraft.world.World
+        net.minecraft.world.chunk.IChunkProvider
+        net.minecraft.world.gen.IChunkGenerator
+        net.minecraft.world.gen.feature.WorldGenMinable
+        net.minecraftforge.fml.common.IWorldGenerator
+End  Processing: com/puppy681nuff/morearmors/world/ModWorldGen.java
+

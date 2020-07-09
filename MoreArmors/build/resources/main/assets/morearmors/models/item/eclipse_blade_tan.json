@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+  "textures": {
+    "layer0":"morearmors:items/eclipse_blade_tan"
+  }s
+}
